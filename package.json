@@ -1,0 +1,21 @@
+{
+  "name": "konajs",
+  "version": "1.0.0",
+  "description": "JS SDK Specs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.teamkona.io:kona_v2/js_sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-uglify": "^1.2.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
