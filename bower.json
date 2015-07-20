@@ -1,0 +1,18 @@
+{
+  "name": "konajs",
+  "version": "0.0.0",
+  "authors": [
+    "santiago@konacloud.io"
+  ],
+  "description": "Kona JS SDK",
+  "main": "kona.js",
+  "keywords": [
+    "kona",
+    "konajs"
+  ],
+  "license": "MIT",
+  "homepage": "http://konacloud.io",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
