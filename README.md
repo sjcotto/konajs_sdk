@@ -1,13 +1,22 @@
 JS SDK Specs
 
+
+
 ## Instalation
+
+Using bower
+
+```js
+bower install konajs
+```
+
+Or manually
 
 Add Jquery and Kona.js
 
 ```html
-
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="http://git.teamkona.io/kona_v2/js_sdk/raw/master/kona.js" ></script>
+<script src="https://raw.githubusercontent.com/sjcotto/konajs_sdk/master/kona.js" ></script>
 ```
 
 ## Configuration
